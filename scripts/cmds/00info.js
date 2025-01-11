@@ -15,12 +15,12 @@ module.exports = {
 		envConfig: {}
 	},
 	onStart: async function ({ message }) {
-		const authorName = " ⸙𝗥𝗔𝗙𝗜𝗬𝗔𝗡 𝗥𝗜𝗙𝗔𝗧༉ ";
+		const authorName = " 𝗡𝗦 𝗦𝗔𝗛𝗘𝗟 𝗔𝗛𝗠𝗘𝗗 𝗝𝗜𝗦𝗔𝗡 ";
 		const ownAge = "『 𝟭𝟵+ 』";
-		const messenger = "𝗳𝗮𝗰𝗲𝗯𝗼𝗼𝗸.𝗰𝗼𝗺/𝗧𝗲𝗿𝗮.𝗕𝗮𝗽.𝗖4𝗫";
-		const authorFB = "𝗳𝗮𝗰𝗲𝗯𝗼𝗼𝗸.𝗰𝗼𝗺/𝗧𝗲𝗿𝗮.𝗕𝗮𝗽.𝗖4𝗫";
+		const messenger = "𝗳𝗮𝗰𝗲𝗯𝗼𝗼𝗸.𝗰𝗼𝗺/𝘁𝗲𝗿𝗮.𝗯𝗮𝗽.𝗰4𝗫";
+		const authorFB = "𝗳𝗮𝗰𝗲𝗯𝗼𝗼𝗸.𝗰𝗼𝗺/𝘁𝗲𝗿𝗮.𝗯𝗮𝗽.𝗰4𝗫";
 		const authorNumber = "_01731736377";
-		const Status = "𝗦𝗜𝗡𝗚𝗟𝗘";
+		const Status = "𝗡𝗦";
 		const urls = [
 "https://i.imgur.com/ykAKHTG.jpeg",
 "https://i.imgur.com/ykAKHTG.jpeg",
@@ -51,11 +51,11 @@ module.exports = {
 \⏰NOW TIME : ${time}
 \🔰ANY HELP CONTACT :⩸__${messenger}__⩸
 \📛BOT I'S RUNNING FOR : ${uptimeString}
-    𝑻𝒈: 𝗞𝗼𝘁𝗵𝗮𝗮 𝗕𝗼𝗹𝗮𝗿 𝗠𝗼𝘁𝗼 𝗸𝗲𝘄 𝗡𝗮𝗮𝗶
-    𝑰𝒏𝒔𝒕𝒂: 𝗖𝗲𝗹𝗶𝗯𝗿𝗮𝘁𝘆 𝗗𝗲𝗿 𝗷𝗼𝗻𝗻𝗼
-    𝑪𝒂𝒑𝑪𝒖𝒕: 𝗦𝗮𝗵𝗲𝗹 𝗔𝗵𝗺𝗲𝗱
-    𝑻𝒊𝒌𝑻𝒐𝒌: 𝗣𝗿𝗼𝘁𝗶𝗯𝗼𝗻𝗱𝗶 𝗔𝗽𝗽𝘀
-    𝒀𝒐𝒖𝑻𝒖𝒃𝒆: 𝗚𝗮𝗮𝗻 𝗦𝗵𝘂𝗻𝗶
+    𝗧𝗲𝗹𝗶𝗴𝗿𝗮𝗺: — কথা বলার মত কেউ নেই>
+    𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺: এটা তো সেলেব্রিটিদের জন্য, আমি সেলেব্রিটি না 🙂
+    𝗖𝗮𝗽𝗰𝘂𝘁: ভিডিও এডিট করি 😑
+    𝗧𝗶𝗸𝘁𝗼𝗸: এটা তো প্রতিবন্দীরা চালায় 😷
+    𝗬𝗼𝘂𝘁𝘂𝗯𝗲: বিরহের গান শুনি 😒💔
 \===============`,
 			attachment: await global.utils.getStreamFromURL(link)
 		});
