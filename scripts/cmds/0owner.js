@@ -16,12 +16,12 @@ config: {
   onStart: async function ({ api, event }) {
   try {
     const ownerInfo = {
-      name: '𝙎𝘼𝙃𝙀𝙇 𝘼𝙃𝙈𝙀𝘿 𝙅𝙄𝙎𝘼𝙉',
-      gender: '𝙈𝙖𝙡𝙚',
+      name: '𝗦𝗔𝗛𝗘𝗟 𝗔𝗛𝗠𝗘𝗗 𝗝𝗜𝗦𝗔𝗡',
+      gender: '𝗠𝗮𝗹𝗲',
       age: '𝟭𝟵+',
-      height: '𝙐𝙣𝙠𝙣𝙤𝙬𝙣',
-      facebookLink: '𝙁𝙖𝙘𝙚𝙗𝙤𝙤𝙠 𝙄𝘿 𝙉𝙖𝙖𝙞',
-      nick: '𝙉𝙞𝙘𝙠𝙣𝙖𝙢𝙚 𝙉𝙖𝙞'
+      height: '𝗨𝗻𝗸𝗻𝗼𝘄𝗻',
+      facebookLink: '𝗟𝗼𝗮𝗱𝗶𝗻𝗴 𝗽𝗹𝗲𝗮𝘀𝗲 𝘄𝗮𝗶𝘁 𝗮 𝗳𝗲𝘄 𝘆𝗲𝗮𝗿𝘀',
+      nick: '𝗡𝗶𝗰𝗸𝗻𝗮𝗺𝗲 𝗡𝗮𝗶'
     };
 
     const bold = 'https://i.imgur.com/ykAKHTG.jpeg'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
@@ -38,7 +38,7 @@ config: {
     fs.writeFileSync(videoPath, Buffer.from(videoResponse.data, 'binary'));
 
     const response = `
-Owner Information:💗
+Owner Information:💗🫶
 Name: ${ownerInfo.name}
 Gender: ${ownerInfo.gender}
 Age: ${ownerInfo.age}
