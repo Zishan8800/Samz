@@ -16,12 +16,12 @@ config: {
   onStart: async function ({ api, event }) {
   try {
     const ownerInfo = {
-      name: '𝗦𝗔𝗛𝗘𝗟 𝗔𝗛𝗠𝗘𝗗 𝗝𝗜𝗦𝗔𝗡',
+      name: '𝐒𝐀𝐇𝐄𝐋 𝐀𝐇𝐌𝐄𝐃 𝐉𝐈𝐒𝐀𝐍',
       gender: '𝗠𝗮𝗹𝗲',
       age: '𝟭𝟵+',
-      height: '𝗨𝗻𝗸𝗻𝗼𝘄𝗻',
+      height: '𝐔𝐧𝐤𝐧𝐨𝐰𝐧',
       facebookLink: '𝗳𝗮𝗰𝗲𝗯𝗼𝗼𝗸.𝗰𝗼𝗺/𝘁𝗲𝗿𝗮.𝗯𝗮𝗽.𝗰4𝘅',
-      nick: '𝗦𝗔𝗛𝗘𝗟'
+      nick: '𝐍𝐒 𝐒𝐀𝐇𝐄𝐋'
     };
 
     const bold = 'https://i.imgur.com/ykAKHTG.jpeg'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
