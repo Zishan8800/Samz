@@ -20,7 +20,7 @@ module.exports = {
 		const messenger = "𝗳𝗮𝗰𝗲𝗯𝗼𝗼𝗸.𝗰𝗼𝗺/𝘁𝗲𝗿𝗮.𝗯𝗮𝗽.𝗰4𝗫";
 		const authorFB = "𝗳𝗮𝗰𝗲𝗯𝗼𝗼𝗸.𝗰𝗼𝗺/𝘁𝗲𝗿𝗮.𝗯𝗮𝗽.𝗰4𝗫";
 		const authorNumber = "_01731736377";
-		const Status = "𝗡𝗦";
+		const Status = "𝗡𝗔𝗕𝗜𝗟𝗔 💗 𝗦𝗔𝗛𝗘𝗟";
 		const urls = [
 "https://i.imgur.com/ykAKHTG.jpeg",
 "https://i.imgur.com/ykAKHTG.jpeg",
@@ -44,7 +44,7 @@ module.exports = {
 \👾BOT SYSTEM PREFIX : ${global.GoatBot.config.prefix}
 \💙 OWNER NAME: ${authorName}
 \📝AGE  : ${ownAge}
-\💕RELATIONSHIP: ${Status}
+\💕Marred: ${Status}
 \🌐WP : ${authorNumber}
 \🌍 FACEBOOK LINK : ${authorFB}
 \🗓DATE : ${date}
