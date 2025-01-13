@@ -48,7 +48,7 @@ module.exports = {
 \🌐 WP: ${authorNumber}
 \🌍 FACEBOOK LINK : ${authorFB}
 \🗓 DATE : ${date}
-\⏰ NOW TINE: ${time}
+\⏰ NOW TIME: ${time}
 \🔰 ANY HELP CONTECT :⩸__${messenger}__⩸
 \📛BOT I'S RUNNING FOR : ${uptimeString}
     TELIGRAM: — কথা বলার মত কেউ নেই👀
