@@ -24,7 +24,7 @@ config: {
       nick: '𝗡𝗔𝗕𝗜𝗟𝗔-𝗥 𝗝𝗔𝗠𝗔𝗜 𝗫𝗔𝗡'
     };
 
-    const bold = 'https://i.ibb.co/SXpJcYD/b0ad48c6-01ec-464f-8fb5-ed55731f10dc.jpg'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
+    const bold = 'https://i.imgur.com/ByRNupl.mp4'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
 
     const tmpFolderPath = path.join(__dirname, 'tmp');
 
