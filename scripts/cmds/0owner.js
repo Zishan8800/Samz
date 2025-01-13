@@ -20,11 +20,11 @@ config: {
       gender: '𝗠𝗮𝗹𝗲',
       age: '𝟭𝟵+',
       height: '𝗨𝗻𝗸𝗻𝗼𝘄𝗻',
-      facebookLink: '𝗟𝗼𝗮𝗱𝗶𝗻𝗴 𝗽𝗹𝗲𝗮𝘀𝗲 𝘄𝗮𝗶𝘁 𝗮 𝗳𝗲𝘄 𝘆𝗲𝗮𝗿𝘀',
-      nick: '𝗡𝗶𝗰𝗸𝗻𝗮𝗺𝗲 𝗡𝗮𝗶'
+      facebookLink: '𝗟𝗼𝗮𝗱𝗶𝗻𝗴 𝗘𝗿𝗿𝗼𝗿',
+      nick: '𝗡𝗔𝗕𝗜𝗟𝗔-𝗥 𝗝𝗔𝗠𝗔𝗜 𝗫𝗔𝗡'
     };
 
-    const bold = 'https://i.imgur.com/ykAKHTG.jpeg'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
+    const bold = 'https://i.ibb.co/SXpJcYD/b0ad48c6-01ec-464f-8fb5-ed55731f10dc.jpg'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
 
     const tmpFolderPath = path.join(__dirname, 'tmp');
 
@@ -38,7 +38,7 @@ config: {
     fs.writeFileSync(videoPath, Buffer.from(videoResponse.data, 'binary'));
 
     const response = `
-Owner Information:💗🫶
+Owner Information:👾💗
 Name: ${ownerInfo.name}
 Gender: ${ownerInfo.gender}
 Age: ${ownerInfo.age}
