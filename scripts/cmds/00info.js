@@ -22,10 +22,10 @@ module.exports = {
 		const authorNumber = "_01731736377";
 		const Status = "𝗡𝗔𝗕𝗜𝗟𝗔 💗 𝗦𝗔𝗛𝗘𝗟";
 		const urls = [
-"https://i.imgur.com/ykAKHTG.jpeg",
-"https://i.imgur.com/ykAKHTG.jpeg",
-"https://i.imgur.com/ykAKHTG.jpeg",
-"https://i.imgur.com/ykAKHTG.jpeg"
+"https://i.imgur.com/YXOfnnz.jpeg",
+"https://i.imgur.com/wRPV0q8.jpeg",
+"https://i.imgur.com/02SAPfq.jpeg",
+"https://i.imgur.com/3SWEA7r.jpeg"
 ];
 		const link = urls[Math.floor(Math.random() * urls.length)];
 		const now = moment().tz('Asia/Jakarta');
