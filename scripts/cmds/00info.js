@@ -39,7 +39,7 @@ module.exports = {
 		const uptimeString = `${days} days ${hours} hours ${minutes} minutes ${seconds} seconds`;
 
 		message.reply({
-			body: `《 𝘽𝙊𝙏 𝘼𝙉𝘿 𝙊𝙒𝙉𝙀𝙍 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙉𝙏𝙄𝙊𝙉 》⸙
+			body: `《 ʙᴏᴛ ᴀɴᴅ ᴏᴡɴᴇʀ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ 》💗
 \🤖BOT NAME : ⩸__${global.GoatBot.config.nickNameBot}__⩸
 \👾BOT SYSTEM PREFIX : ${global.GoatBot.config.prefix}
 \💙OWNER NAME: ${authorName}
@@ -51,11 +51,11 @@ module.exports = {
 \⏰ NOW TIME: ${time}
 \🔰 ANY HELP CONTECT :⩸__${messenger}__⩸
 \📛BOT I'S RUNNING FOR : ${uptimeString}
-    TELIGRAM: — কথা বলার মত কেউ নেই👀
-    INSTAGRAM: এটা তো সেলেব্রিটিদের জন্য, আমি সেলেব্রিটি না 🙂
-    CAPCUT: ভিডিও এডিট করি 😑
-    TIKTOK: এটা তো প্রতিবন্দীরা চালায় 😷
-    YOUTUBE: বিরহের গান শুনি 😒💔
+    TELIGRAM: t.me/sahel69k
+    INSTAGRAM: ɪɴꜱᴛᴀɢʀᴀᴍ ʟᴏᴀᴅɪɴɢ ᴇʀʀᴏʀ ⚠️
+    CAPCUT: SahelAhmed69k
+    TIKTOK: ᴛɪᴋᴛᴏᴋ ʟᴏᴀᴅɪɴɢ ᴇʀʀᴏʀ ⚠️
+    YOUTUBE: 𝙸 𝚕𝚒𝚜𝚝𝚎𝚗 𝚝𝚘 𝚖𝚞𝚜𝚒𝚌. 🎶 
 \===============`,
 			attachment: await global.utils.getStreamFromURL(link)
 		});
