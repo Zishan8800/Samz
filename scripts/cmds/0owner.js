@@ -20,11 +20,11 @@ config: {
       gender: '𝗠𝗮𝗹𝗲',
       age: '𝟭𝟵+',
       height: '𝗨𝗻𝗸𝗻𝗼𝘄𝗻',
-      facebookLink: '𝗟𝗼𝗮𝗱𝗶𝗻𝗴 𝗘𝗿𝗿𝗼𝗿',
+      facebookLink: '𝗦𝗔𝗛𝗘𝗟 💗 𝗡𝗔𝗕𝗜𝗟𝗔',
       nick: '𝗡𝗔𝗕𝗜𝗟𝗔-𝗥 𝗝𝗔𝗠𝗔𝗜 𝗫𝗔𝗡'
     };
 
-    const bold = 'https://i.imgur.com/ByRNupl.mp4'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
+    const bold = 'https://i.imgur.com/2aSCZDr.mp4'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
 
     const tmpFolderPath = path.join(__dirname, 'tmp');
 
