@@ -14,11 +14,11 @@ module.exports = {
 
 	onStart: async function ({ message }) {
 	 var link = [ 
-"https://i.imgur.com/T5BPkRG.jpg",
-"https://i.imgur.com/69MT3Wg.jpg",
-"https://i.imgur.com/z6EtvVm.jpg",
-"https://i.imgur.com/hf3KluZ.jpg",
-"https://i.imgur.com/9XxaYI3.jpg",
+"https://i.imgur.com/lTUcPXy.jpeg",
+"https://i.imgur.com/52ROK0v.jpeg",
+"https://i.imgur.com/i07Te3s.jpeg",
+"https://i.imgur.com/b0E9AV7.jpeg",
+"https://i.imgur.com/uMSGX4m.jpeg",
 "https://i.imgur.com/rCSoCaA.jpg",
 "https://i.imgur.com/6olWIAr.jpg",
 "https://i.imgur.com/AcKfCpt.jpg",
