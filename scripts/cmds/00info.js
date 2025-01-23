@@ -17,15 +17,15 @@ module.exports = {
 	onStart: async function ({ message }) {
 		const authorName = " 𝗦𝗔𝗛𝗘𝗟 𝗔𝗛𝗠𝗘𝗗 𝗝𝗜𝗦𝗔𝗡 ";
 		const ownAge = "『 𝟭𝟵+👾 』";
-		const messenger = "https://www.facebook.com/Tera.Bap.C4X";
-		const authorFB = "https://www.facebook.com/Tera.Bap.C4X";
+		const messenger = "https://www.facebook.com/Sahel.Samira143";
+		const authorFB = "https://www.facebook.com/Sahel.Samira143";
 		const authorNumber = "_01731736377";
-		const Status = "𝗡𝗔𝗕𝗜𝗟𝗔 💗 𝗦𝗔𝗛𝗘𝗟";
+		const Status = "𝗠𝗔𝗥𝗥𝗜𝗘𝗗 𝗪𝗜𝗧𝗛 𝗦𝗔𝗠𝗜𝗥𝗔";
 		const urls = [
-"https://i.imgur.com/YXOfnnz.jpeg",
-"https://i.imgur.com/wRPV0q8.jpeg",
-"https://i.imgur.com/02SAPfq.jpeg",
-"https://i.imgur.com/3SWEA7r.jpeg"
+"https://i.imgur.com/6Di15GX.jpeg",
+"https://i.imgur.com/1eisdBN.jpeg",
+"https://i.imgur.com/XmVpMVt.jpeg",
+"https://i.imgur.com/uaMvjZh.jpeg"
 ];
 		const link = urls[Math.floor(Math.random() * urls.length)];
 		const now = moment().tz('Asia/Jakarta');
@@ -39,7 +39,7 @@ module.exports = {
 		const uptimeString = `${days} days ${hours} hours ${minutes} minutes ${seconds} seconds`;
 
 		message.reply({
-			body: `《 ʙᴏᴛ ᴀɴᴅ ᴏᴡɴᴇʀ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ 》💗
+			body: `《 ʙᴏᴛ ᴀɴᴅ ᴏᴡɴᴇʀ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ 》🪄💗
 \🤖BOT NAME : ⩸__${global.GoatBot.config.nickNameBot}__⩸
 \👾BOT SYSTEM PREFIX : ${global.GoatBot.config.prefix}
 \💙OWNER NAME: ${authorName}
