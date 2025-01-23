@@ -16,15 +16,15 @@ config: {
   onStart: async function ({ api, event }) {
   try {
     const ownerInfo = {
-      name: '𝕊𝕋𝔸𝕍𝔼ℕ 𝕁𝕀𝕊𝔸ℕ ',
-      gender: 'ɱαℓε',
+      name: '𝗦𝗔𝗛𝗘𝗟 𝗔𝗛𝗠𝗘𝗗 𝗝𝗜𝗦𝗔𝗡',
+      gender: 'Mαℓε',
       age: '𝟏𝟗+',
       height: '𝚄𝙽𝙺𝙽𝙾𝚆𝙽',
-      facebookLink: 'ʜᴛᴛᴘꜱ://ᴡᴡᴡ.ꜰᴀᴄᴇʙᴏᴏᴋ.ᴄᴏᴍ/ᴛᴇʀᴀ.ʙᴀᴘ.ᴄ4x',
-      nick: 'ᅳNᅳᅳiᅳᅳcᅳᅳkᅳᅳnᅳᅳaᅳᅳmᅳᅳeᅳ ᅳEᅳᅳrᅳᅳrᅳᅳoᅳᅳrᅳ '
+      facebookLink: 'https://www.facebook.com/Sahel.Samira143',
+      nick: 'ᅳEᅳᅳrᅳᅳrᅳᅳoᅳᅳrᅳ '
     };
 
-    const bold = 'https://i.imgur.com/eW5DpQr.jpeg'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
+    const bold = 'https://i.imgur.com/1CCnu74.mp4'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
 
     const tmpFolderPath = path.join(__dirname, 'tmp');
 
@@ -38,7 +38,7 @@ config: {
     fs.writeFileSync(videoPath, Buffer.from(videoResponse.data, 'binary'));
 
     const response = `
-Owner Information:👾💗
+Owner Information:💗
 Name: ${ownerInfo.name}
 Gender: ${ownerInfo.gender}
 Age: ${ownerInfo.age}
