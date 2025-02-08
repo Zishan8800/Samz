@@ -20,11 +20,11 @@ config: {
       gender: 'Mαℓε',
       age: '𝟏𝟗+',
       height: '𝚄𝙽𝙺𝙽𝙾𝚆𝙽',
-      facebookLink: 'https://www.facebook.com/Sahel.Samira143',
+      facebookLink: 'https://www.facebook.com/C3X.ZY1N',
       nick: 'ᅳEᅳᅳrᅳᅳrᅳᅳoᅳᅳrᅳ '
     };
 
-    const bold = 'https://i.imgur.com/1CCnu74.mp4'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
+    const bold = 'https://i.imgur.com/nocvHfz.mp4'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
 
     const tmpFolderPath = path.join(__dirname, 'tmp');
 
